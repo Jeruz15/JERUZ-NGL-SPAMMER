@@ -23,9 +23,9 @@ def ngl():
 ██╔██╗██║██║░░██╗░██║░░░░░██████╔╝██║██████╔╝
 ██║╚████║██║░░╚██╗██║░░░░░██╔══██╗██║██╔═══╝
 ██║░╚███║╚██████╔╝███████╗██║░░██║██║██║  By 
-╚═╝░░╚══╝░╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝╚═╝  Dimxz
+╚═╝░░╚══╝░╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝╚═╝  JERUZ15
  
-  Ngl - Rip is a tool that can be used to send lots of messages quickly to your friends' ngl.link ;) For educational purposes only.
+  NGL RIP: NGL MESSAGE SPAMMER}> FOR EDUCATIONAL PURPOSES ONLY!. 
     """))
 
     cosuser = input(Colorate.Color(Colors.orange,"[+] Custom UserAgent ? (y/n) : "))
