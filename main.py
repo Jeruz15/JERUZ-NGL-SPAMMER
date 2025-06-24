@@ -83,7 +83,7 @@ def ngl():
             success += 1
             now = datetime.now()
             time = now.strftime("%H:%M:%S")
-            print(Colorate.Color(Colors.green,"[{}]".format(time) + " [+] Success => {}".format(value)))
+            print(Colorate.Color(Colors.green,"[{}]".format(time) + " >_ [+] Success => {}".format(value)))
         elif response.status_code == 404:
             value += 1
             error += 1
